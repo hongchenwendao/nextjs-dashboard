@@ -44,7 +44,7 @@
   ".claude/commands/trellis/integrate-skill.md": "3940442485341832257c595ddfb45582e2d60e5a4716f2bd15b7bce0498b130a",
   ".claude/commands/trellis/onboard.md": "a5dbd5db094b13fd006ec856efa53a688e209bcdc3ed1680b63b15f1e3293ab4",
   ".claude/commands/trellis/parallel.md": "f4c81fe1a468be214caf362263b14b6a6f40935497363109148cb7b19e644738",
-  ".claude/commands/trellis/record-session.md": "c151abf0271cc2f4e374f168658dcdf61c5fcf903c2ef641ebdb79615a88d88b",
+  ".claude/commands/trellis/record-session.md": "0c4f61283c2f262c1f9c900d9207309107497d4ac848cca86eb62bc5b7189fe7",
   ".claude/commands/trellis/start.md": "2d4259d8d146d32c7b6c33dda36c14da76e1c3f1be35b27dc18e5eb5551c9276",
   ".claude/commands/trellis/update-spec.md": "ff4d5a0405a763e61936f5b9df175fd25ea20ec5c20fa999855020ab78a919b6",
   ".claude/hooks/inject-subagent-context.py": "75ce4cc175a00f9afa5fe1c80298e29521359ad90a66701c3c1166aa588f3080",
@@ -62,7 +62,7 @@
   ".agents/skills/finish-work/SKILL.md": "f3f77e3902021bb7d95452a6072ae3f67993bf7b7d0e172e33756a633b654bf2",
   ".agents/skills/integrate-skill/SKILL.md": "47b7374345d8a31f9df07c5e8e875ca4fdc30d0cc45860d77df893250e2d97fc",
   ".agents/skills/onboard/SKILL.md": "1808f578d21eae3cbcf650d6aa4cf35ac42bf466df740b830593c9bda212d51a",
-  ".agents/skills/record-session/SKILL.md": "d1257c53757ca590c18b341ac250e943570e263e7103bd07a129cfc10d3a7978",
+  ".agents/skills/record-session/SKILL.md": "ce27e953630a71ef989c5582790e9c8a600a2614ec668b674816c1daac73ce0a",
   ".agents/skills/start/SKILL.md": "788e517f9e57c4ce68497c1cefabd51faa8253c681be7965915f21e6de9c5886",
   ".agent/workflows/before-backend-dev.md": "4537ccee0071353beee636a052c01642a27a87b6b0a73e7bc872b2501547fa64",
   ".agent/workflows/before-frontend-dev.md": "679c1708a4d9fbad5214db299a38366581684a9383cf51a5d8ac21f890d6ba0d",
@@ -75,7 +75,7 @@
   ".agent/workflows/finish-work.md": "43e1a2752d47963955d3523545d318575c3e8d9135260760a8fc32277bba1eef",
   ".agent/workflows/integrate-skill.md": "fcdf44b44567bcfdc7d41df7dda98c39ec182e45a4d101dc861b387666805db1",
   ".agent/workflows/onboard.md": "874d0b1cd5485d2b3153317eeda1c0edd6d790d2d68e1a4d08703e0cc319c690",
-  ".agent/workflows/record-session.md": "d1257c53757ca590c18b341ac250e943570e263e7103bd07a129cfc10d3a7978",
+  ".agent/workflows/record-session.md": "ce27e953630a71ef989c5582790e9c8a600a2614ec668b674816c1daac73ce0a",
   ".agent/workflows/start.md": "dad2fb2cd75537535584e5e10f45274d6a177d5a2ad062960ab7b32314ceefac",
   ".agent/workflows/update-spec.md": "40f52c9943eb189c0f0aefdd698350bc55688c8657139b5903bb993b944487f0"
 }
